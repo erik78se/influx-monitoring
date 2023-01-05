@@ -1,0 +1,1 @@
+http_code=%{http_code},ssl_verify_result=%{ssl_verify_result},time_redirect=%{time_redirect},time_namelookup=%{time_namelookup},time_connect=%{time_connect},time_appconnect=%{time_appconnect},time_pretransfer=%{time_pretransfer},time_starttransfer=%{time_starttransfer},time_total=%{time_total},exitcode=%{exitcode},errormsg="%{errormsg}"
